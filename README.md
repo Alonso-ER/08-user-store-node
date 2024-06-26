@@ -1,6 +1,8 @@
 # Rest Project + TypeScript
 
-Este proyecto previamente inicializado tiene todo lo necesario para trabajar con TypeScript, Express y Rest.
+Este proyecto previamente inicializado tiene todo lo necesario para trabajar con TypeScript, Express y Rest. 
+
+Necesario mencionar que este proyecto forma parte del curso de NodeJS de Fernando Herrera, muchas gracias por su excelente dedicación a continuar enseñando.
 
 Cada paso de su configuración ya se ha realizado previamente en el curso, por lo que solo es necesario clonar el proyecto y comenzar a trabajar.
 
